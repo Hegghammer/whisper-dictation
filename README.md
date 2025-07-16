@@ -1,6 +1,6 @@
 # whisper-dictation
 
-Simple script to use Whisper for dictation. Inspired by [wkey](https://github.com/vlad-ds/whisper-keyboard), but with support for offline models and punctuation commands. It works with any backend that supports the OpenAI SDK, such as [Speaches]https://github.com/speaches-ai/speaches/.
+Simple script to use Whisper for dictation. Inspired by [wkey](https://github.com/vlad-ds/whisper-keyboard), but with support for offline models and punctuation commands. It works with any backend that supports the OpenAI SDK, such as [Speaches](https://github.com/speaches-ai/speaches/).
 
 ## Setup
 
