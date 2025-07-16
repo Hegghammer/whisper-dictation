@@ -4,10 +4,10 @@ Simple transcription app for use with any backend that supports the OpenAI SDK. 
 Minimal requirements:
   pip install sounddevice numpy pynput scipy openai
 Environment:
-  Set the vars OPENAI_BASE_URL and OPENAI_API_KEY.
+  Set the vars DICTATION_BASE_URL and DICTATION_API_KEY.
   If you are using Speaches, this will be your server URL and the api_key you set for your Speaches instance.
 Usage:
-  python dict.py [WHISPER_MODEL]
+  python dict.py $WHISPER_MODEL
   If you are using Speaches, this can be one of the aliases you set in `model_aliases.json` 
 """
 
