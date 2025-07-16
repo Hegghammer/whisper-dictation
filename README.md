@@ -51,4 +51,6 @@ This currently works only for English, but you can modify the script for similar
 
 ## Custom spelling
 
-Whisper models take a prompt that can guide spelling. The script implements this through the `CUSTOM SPELLING` variable at the top. It currently contains a few example words and some sentences to inspire UK spelling. Tweak it to your needs. 
+Whisper models take a prompt that can guide spelling. The script implements this through the `CUSTOM SPELLING` variable at the top. It currently contains a few example words and some sentences to inspire UK spelling. Tweak it to your needs.
+
+Note: The "distil" series of Whisper models does not seem to heed custom spelling instructions. 
